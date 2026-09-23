@@ -1,0 +1,319 @@
+{
+  "additional_evidence": [],
+  "claim": "The appellant claimed a deduction for municipal and urban property taxes.",
+  "controls": {
+    "equal_compute_budget": false,
+    "independent_gold_labels": false,
+    "maximum_windows_per_check": 48,
+    "prefix_characters": 1000,
+    "same_claim_and_nli_model": true,
+    "same_initial_retrieval": true,
+    "threshold": 0.8,
+    "window_overlap_tokens": 40,
+    "window_tokens": 190
+  },
+  "corpus_sha256": "5a0544f2ccdc97083e36ec635ac41e7b867ed97bff765ffdf96aa4694c9fe0be",
+  "indexed_cases": 286,
+  "indexed_chunks": 6000,
+  "initial_evidence": [
+    {
+      "authority": 0.0,
+      "authority_basis": "unknown",
+      "bm25": 18.687438239285406,
+      "case_id": "81ea4b51a915ce84",
+      "chunk": 20,
+      "citation_id": "81ea4b51a915ce84:20",
+      "court": "Unknown issuing court",
+      "decision_date": "",
+      "dense": 0.821610689163208,
+      "final": 0.9984657482874763,
+      "page_end": null,
+      "page_start": null,
+      "relevance": 0.9841269841269842,
+      "reranker_logit": 6.478177070617676,
+      "section_type": "",
+      "source_chunk_id": "",
+      "source_id": "",
+      "text": "ambit of the clause. It is elementary that the primary duty of a Court is to give effect to the intention of the legislature as expressed in the words used by it and no outside consideration can be called in aid tO find that intention. Again reference to clause (v) of the section is not very helpful because land revenue is a charge of a paramount nature on all buildings and lands and that being so, a deduction in respect of the amount was mentioned in express terms. Municipal taxes, on the other hand, do not stand on the same footing as land revenue. The law as to them varies from province to province and they may not be necessarily a charge on property in all cases. The legis lature seems to have thought that so far as municipal taxes on property are concerned, if they fall within the ambit of clause (iv), deduction will be claimable in respect of them but not otherwise. The deductions allowed in section 10 under the head \"Income from business\" proceed on a different",
+      "tfidf": 0.15172089694549187,
+      "title": "Untitled judgment"
+    },
+    {
+      "authority": 0.0,
+      "authority_basis": "unknown",
+      "bm25": 20.622182538797873,
+      "case_id": "81ea4b51a915ce84",
+      "chunk": 2,
+      "citation_id": "81ea4b51a915ce84:2",
+      "court": "Unknown issuing court",
+      "decision_date": "",
+      "dense": 0.5165413618087769,
+      "final": 0.9933647075113972,
+      "page_end": null,
+      "page_start": null,
+      "relevance": 0.9121621621621622,
+      "reranker_logit": 5.008695125579834,
+      "section_type": "",
+      "source_chunk_id": "",
+      "source_id": "",
+      "text": "the net income of the assessee under the head \"property\" was computed by the Income tax Officer in the sum of Rs. 6,21,764 after deducting from gross rents certain payments. The company had paid during the relevant year Rs. 1,22,675 as municipal property tax and Rs. 32,760 as urban property tax. Deduction of these two sums was claimed under the provisions of section 9 the Act. Out of the first item a deduction in the sum of Rs. 48,572 was allowed on the ground that this item represented tenants ' burdens paid by the assessee, otherwise the claim was disal lowed. The, appeals of the assessee to the Appellate As sistant Commissioner and to the Income tax Appellate Tribu nal were unsuccessful. The Tribunal, however, agreed to refer two questions of law to the High Court of Judicature at Bombay, namely, (1) Whether the municipal taxes paid by the applicant company are an allowable deduction under 555 the provisions of section 9 (1) (iv) of the Indian Income tax Act; (2) Whether the urban immoveable property taxes paid by the",
+      "tfidf": 0.20150782537117376,
+      "title": "Untitled judgment"
+    },
+    {
+      "authority": 0.0,
+      "authority_basis": "unknown",
+      "bm25": 16.087030211718762,
+      "case_id": "81ea4b51a915ce84",
+      "chunk": 7,
+      "citation_id": "81ea4b51a915ce84:7",
+      "court": "Unknown issuing court",
+      "decision_date": "",
+      "dense": 0.5091439485549927,
+      "final": 0.8728992503791322,
+      "page_end": null,
+      "page_start": null,
+      "relevance": 0.8395550527903468,
+      "reranker_logit": 1.92684006690979,
+      "section_type": "",
+      "source_chunk_id": "",
+      "source_id": "",
+      "text": "formed no part of his real income and so should not be included in his assessment. Though the decision proceeded on the principle that the outgoings were not part of the assessee 's income at all, the framers of the amending Act of 1939 wanted, apparently, to extend the principle, so far as the assessment of property was concerned, even to cases where obligatory payments had to be made out of the assessee 's income from the property charged with such payments, and the second sub clause, namely, \"where the property is subject to an annual charge not being a capital charge, the amount of such charge\" was added. It is this sub clause which the appellant invokes in support of its claim to deduction of the municipal and urban, property taxes in the present case. In view of the opening words of the newly added sub clause, the expression \"capital charge\" also used therein cannot have reference to a charge on the property, and we think it must (1) I.L.R. 60 cal. 557 be understood in the same sense",
+      "tfidf": 0.245427021015547,
+      "title": "Untitled judgment"
+    },
+    {
+      "authority": 0.0,
+      "authority_basis": "unknown",
+      "bm25": 16.405820846364463,
+      "case_id": "81ea4b51a915ce84",
+      "chunk": 18,
+      "citation_id": "81ea4b51a915ce84:18",
+      "court": "Unknown issuing court",
+      "decision_date": "",
+      "dense": 0.657598614692688,
+      "final": 0.739140380362286,
+      "page_end": null,
+      "page_start": null,
+      "relevance": 0.9471593644679827,
+      "reranker_logit": 1.0415054559707642,
+      "section_type": "",
+      "source_chunk_id": "",
+      "source_id": "",
+      "text": "annual liability is not discharged in the manner laid down by section 197, can it be said that the property cannot be sold for recovery of the whole amount due for the year ? The answer to this query can only be in the affirmative, i.e., that the proper ty is liable to sale. In Commissioner of Income tax, Bombay vs Mahomedbhoy Rowji(1) Beaumont C.J., while rejecting the claim for the deduction of the taxes, placed reliance on (1) I.L.R. 561 section 9 (1) (v) which allows a deduction in respect of any sums paid on account of land revenue. It was observed that land revenue stands on the same footing as municipal taxes and that as the legislature made a special provision for deduction of sums payable in regard to land revenue but not in respect of sums paid on account of municipal taxes that circumstance indicated that the deduction was not allowable. For the same purpose reference was also made to the provi sions of section 10 which deal with business allowances and wherein deduction of any sum",
+      "tfidf": 0.13510278854165916,
+      "title": "Untitled judgment"
+    },
+    {
+      "authority": 0.0,
+      "authority_basis": "unknown",
+      "bm25": 9.87281347206616,
+      "case_id": "81ea4b51a915ce84",
+      "chunk": 1,
+      "citation_id": "81ea4b51a915ce84:1",
+      "court": "Unknown issuing court",
+      "decision_date": "",
+      "dense": 0.5675976276397705,
+      "final": 0.42240529332618715,
+      "page_end": null,
+      "page_start": null,
+      "relevance": 0.7742307692307693,
+      "reranker_logit": -0.3129071593284607,
+      "section_type": "",
+      "source_chunk_id": "",
+      "source_id": "",
+      "text": "Appeal No. LXVI of 1949. Appeal from the High Court of judicature, Bombay, in a reference under section 66 of the Indian Income tax Act, 1022. K.M. Munshi (N. P. Nathvani, with him), for the appel lant. ' M.C. Setalvad, Attorney General for India (H. J. Umrigar, with him), for the respondent. 1950. May 26. The judgment of the Court was delivered by MEHR CHAND MAHAJAN J. This is an appeal against a judgment of the High Court of Judicature at Bombay in an income tax matter and it raises the question whether munici pal property tax and urban immoveable property tax payable under the relevant Bombay Acts are allowable deductions under section 9 (1) (iv) of the Indian Income tax Act. The assessee company is an investment company deriving its income from properties in the city of Bombay. For the assessment year 1940 41 the net income of the assessee under the head \"property\" was computed by the Income tax Officer in the sum of Rs. 6,21,764 after deducting from gross rents certain payments. The company had paid during",
+      "tfidf": 0.057295539652403485,
+      "title": "Untitled judgment"
+    }
+  ],
+  "initial_retrieval_seconds": 0.9392,
+  "models": {
+    "encoder": {
+      "repo": "sentence-transformers/all-MiniLM-L6-v2",
+      "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41"
+    },
+    "nli": {
+      "repo": "cross-encoder/nli-MiniLM2-L6-H768",
+      "revision": "b95119ce93d3e065de6214e38cd4a97b0f2f2c6d"
+    },
+    "reranker": {
+      "repo": "cross-encoder/ms-marco-MiniLM-L6-v2",
+      "revision": "233902d25c440f23af6f7d6e94d2946bac0bee0a"
+    }
+  },
+  "question": "Are municipal property taxes deductible from income from property?",
+  "recorded_at": "2026-09-23T17:53:56.261717+00:00",
+  "retry_attempted": false,
+  "retry_seconds": 0.0,
+  "scope": "Live ablation on one claim, not an accuracy benchmark or reproduction of another project. A uses the first 1,000 source characters, scored per source segment with the same NLI model. B and C have larger evidence budgets. NLI scores are uncalibrated. Initial retrieval is shared; C reuses B and adds measured retry work. Pipeline times are component sums, not independent end-to-end benchmark runs.",
+  "setup_seconds": 7.5658,
+  "source": "indian-legal-train.csv",
+  "variants": [
+    {
+      "added_passages": 0,
+      "check": {
+        "best_match": {
+          "case_id": "81ea4b51a915ce84",
+          "char_end": 982,
+          "char_start": 723,
+          "citation_id": "81ea4b51a915ce84:20",
+          "contradiction": 0.007758114952594042,
+          "entailment": 0.01662869192659855,
+          "neutral": 0.9756131768226624,
+          "text": "far as municipal taxes on property are concerned, if they fall within the ambit of clause (iv), deduction will be claimable in respect of them but not otherwise. The deductions allowed in section 10 under the head \"Income from business\" proceed on a different"
+        },
+        "claim": "The appellant claimed a deduction for municipal and urban property taxes.",
+        "contradiction": [],
+        "coverage_complete": true,
+        "label": "Not established",
+        "model": {
+          "repo": "cross-encoder/nli-MiniLM2-L6-H768",
+          "revision": "b95119ce93d3e065de6214e38cd4a97b0f2f2c6d"
+        },
+        "scope": "Retrieved passages only; model predictions are not legal determinations.",
+        "support": [],
+        "threshold": 0.8,
+        "windows_available": 3,
+        "windows_checked": 3
+      },
+      "eligible_characters": 1000,
+      "estimated_pipeline_seconds": 1.138,
+      "evidence_ids": [
+        "81ea4b51a915ce84:20",
+        "81ea4b51a915ce84:2"
+      ],
+      "id": "prefix",
+      "name": "A \u00b7 Prefix only",
+      "passages": 2,
+      "retrieval_rounds": 1,
+      "strategy_seconds": 0.1988
+    },
+    {
+      "added_passages": 0,
+      "check": {
+        "best_match": {
+          "case_id": "81ea4b51a915ce84",
+          "char_end": 1036,
+          "char_start": 650,
+          "citation_id": "81ea4b51a915ce84:2",
+          "contradiction": 0.007008562330156565,
+          "entailment": 0.9506221413612366,
+          "neutral": 0.04236936569213867,
+          "text": "Income tax Appellate Tribu nal were unsuccessful. The Tribunal, however, agreed to refer two questions of law to the High Court of Judicature at Bombay, namely, (1) Whether the municipal taxes paid by the applicant company are an allowable deduction under 555 the provisions of section 9 (1) (iv) of the Indian Income tax Act; (2) Whether the urban immoveable property taxes paid by the"
+        },
+        "claim": "The appellant claimed a deduction for municipal and urban property taxes.",
+        "contradiction": [],
+        "coverage_complete": true,
+        "label": "Model-supported",
+        "model": {
+          "repo": "cross-encoder/nli-MiniLM2-L6-H768",
+          "revision": "b95119ce93d3e065de6214e38cd4a97b0f2f2c6d"
+        },
+        "scope": "Retrieved passages only; model predictions are not legal determinations.",
+        "support": [
+          {
+            "case_id": "81ea4b51a915ce84",
+            "char_end": 1036,
+            "char_start": 650,
+            "citation_id": "81ea4b51a915ce84:2",
+            "contradiction": 0.007008562330156565,
+            "entailment": 0.9506221413612366,
+            "neutral": 0.04236936569213867,
+            "text": "Income tax Appellate Tribu nal were unsuccessful. The Tribunal, however, agreed to refer two questions of law to the High Court of Judicature at Bombay, namely, (1) Whether the municipal taxes paid by the applicant company are an allowable deduction under 555 the provisions of section 9 (1) (iv) of the Indian Income tax Act; (2) Whether the urban immoveable property taxes paid by the"
+          },
+          {
+            "case_id": "81ea4b51a915ce84",
+            "char_end": 918,
+            "char_start": 0,
+            "citation_id": "81ea4b51a915ce84:7",
+            "contradiction": 0.013322760351002216,
+            "entailment": 0.8927366733551025,
+            "neutral": 0.09394058585166931,
+            "text": "formed no part of his real income and so should not be included in his assessment. Though the decision proceeded on the principle that the outgoings were not part of the assessee 's income at all, the framers of the amending Act of 1939 wanted, apparently, to extend the principle, so far as the assessment of property was concerned, even to cases where obligatory payments had to be made out of the assessee 's income from the property charged with such payments, and the second sub clause, namely, \"where the property is subject to an annual charge not being a capital charge, the amount of such charge\" was added. It is this sub clause which the appellant invokes in support of its claim to deduction of the municipal and urban, property taxes in the present case. In view of the opening words of the newly added sub clause, the expression \"capital charge\" also used therein cannot have reference to a charge on the"
+          }
+        ],
+        "threshold": 0.8,
+        "windows_available": 10,
+        "windows_checked": 10
+      },
+      "eligible_characters": 5055,
+      "estimated_pipeline_seconds": 1.5595,
+      "evidence_ids": [
+        "81ea4b51a915ce84:20",
+        "81ea4b51a915ce84:2",
+        "81ea4b51a915ce84:7",
+        "81ea4b51a915ce84:18",
+        "81ea4b51a915ce84:1"
+      ],
+      "id": "windows",
+      "name": "B \u00b7 Evidence windows",
+      "passages": 5,
+      "retrieval_rounds": 1,
+      "strategy_seconds": 0.6204
+    },
+    {
+      "added_passages": 0,
+      "check": {
+        "best_match": {
+          "case_id": "81ea4b51a915ce84",
+          "char_end": 1036,
+          "char_start": 650,
+          "citation_id": "81ea4b51a915ce84:2",
+          "contradiction": 0.007008562330156565,
+          "entailment": 0.9506221413612366,
+          "neutral": 0.04236936569213867,
+          "text": "Income tax Appellate Tribu nal were unsuccessful. The Tribunal, however, agreed to refer two questions of law to the High Court of Judicature at Bombay, namely, (1) Whether the municipal taxes paid by the applicant company are an allowable deduction under 555 the provisions of section 9 (1) (iv) of the Indian Income tax Act; (2) Whether the urban immoveable property taxes paid by the"
+        },
+        "claim": "The appellant claimed a deduction for municipal and urban property taxes.",
+        "contradiction": [],
+        "coverage_complete": true,
+        "label": "Model-supported",
+        "model": {
+          "repo": "cross-encoder/nli-MiniLM2-L6-H768",
+          "revision": "b95119ce93d3e065de6214e38cd4a97b0f2f2c6d"
+        },
+        "scope": "Retrieved passages only; model predictions are not legal determinations.",
+        "support": [
+          {
+            "case_id": "81ea4b51a915ce84",
+            "char_end": 1036,
+            "char_start": 650,
+            "citation_id": "81ea4b51a915ce84:2",
+            "contradiction": 0.007008562330156565,
+            "entailment": 0.9506221413612366,
+            "neutral": 0.04236936569213867,
+            "text": "Income tax Appellate Tribu nal were unsuccessful. The Tribunal, however, agreed to refer two questions of law to the High Court of Judicature at Bombay, namely, (1) Whether the municipal taxes paid by the applicant company are an allowable deduction under 555 the provisions of section 9 (1) (iv) of the Indian Income tax Act; (2) Whether the urban immoveable property taxes paid by the"
+          },
+          {
+            "case_id": "81ea4b51a915ce84",
+            "char_end": 918,
+            "char_start": 0,
+            "citation_id": "81ea4b51a915ce84:7",
+            "contradiction": 0.013322760351002216,
+            "entailment": 0.8927366733551025,
+            "neutral": 0.09394058585166931,
+            "text": "formed no part of his real income and so should not be included in his assessment. Though the decision proceeded on the principle that the outgoings were not part of the assessee 's income at all, the framers of the amending Act of 1939 wanted, apparently, to extend the principle, so far as the assessment of property was concerned, even to cases where obligatory payments had to be made out of the assessee 's income from the property charged with such payments, and the second sub clause, namely, \"where the property is subject to an annual charge not being a capital charge, the amount of such charge\" was added. It is this sub clause which the appellant invokes in support of its claim to deduction of the municipal and urban, property taxes in the present case. In view of the opening words of the newly added sub clause, the expression \"capital charge\" also used therein cannot have reference to a charge on the"
+          }
+        ],
+        "threshold": 0.8,
+        "windows_available": 10,
+        "windows_checked": 10
+      },
+      "eligible_characters": 5055,
+      "estimated_pipeline_seconds": 1.5595,
+      "evidence_ids": [
+        "81ea4b51a915ce84:20",
+        "81ea4b51a915ce84:2",
+        "81ea4b51a915ce84:7",
+        "81ea4b51a915ce84:18",
+        "81ea4b51a915ce84:1"
+      ],
+      "id": "retry",
+      "name": "C \u00b7 Windows + re-search",
+      "passages": 5,
+      "retrieval_rounds": 1,
+      "strategy_seconds": 0.6204
+    }
+  ]
+}

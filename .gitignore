@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+wheelhouse/
+tmp/
+output/
+models/
+cache/
+data/
